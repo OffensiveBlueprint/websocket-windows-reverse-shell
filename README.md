@@ -1,7 +1,7 @@
 
 # websocket-windows-reverse-shell
 
-This is repository for Websocket Reverse Shell that can be executed under Microsoft Windows OS. The solution is split to two components **client.cs**, which is C# reverse shell code that is executed on client-side and and **server.py**,  which servers as python server side components.
+This is repository for Websocket Reverse Shell that can be executed under Microsoft Windows OS. The solution is split to two components **client.cs**, which is C# reverse shell code that is executed on client-side and and **server.py**, which serves as python server side components that control commands and allow to send requests to client.
 
 ## Usage
 
